@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+/BD-FISH15-CLEAN-DATASET/
+
+# PyCharm project files
+.idea/
